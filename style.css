@@ -26,3 +26,8 @@ header h1{
 header p{
     font-size: 1.2rem;
 }
+main{
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+}
