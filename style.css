@@ -1,0 +1,20 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    background-color: aliceblue;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    color: white;
+    
+}
